@@ -1,4 +1,4 @@
-## Me chamo Davi Kleber, Desenvolvedor Back-End | Front-End, Formado em Análise de Sistemas com MBA em Engenharia de Software
+## Me chamo Davi Kleber, Desenvolvedor Back-End | Front-End, Formado em Análise de Sistemas e com MBA em Engenharia de Software.
 <div align="center">
   <a href="https://github.com/davikleber">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davikleber&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
