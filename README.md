@@ -1,4 +1,4 @@
-## Me chamo Davi Kleber, Desenvolvedor Back-End | Front-End, Formado em Análise de Sistemas e com MBA em Engenharia de Software.
+## Me chamo Davi Kleber Sou um desenvolvedor Full Stack apaixonado por criar soluções inovadoras e eficientes. Possuo alta competência em C# e .NET Core, o que me permite construir aplicações robustas e escaláveis. Com um forte foco em DDD e suporte ao SLA, busco constantemente aprender e me adaptar às novas tecnologias, enfrentando desafios que impulsionam meu crescimento profissional.
 <div align="center">
   <a href="https://github.com/davikleber">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davikleber&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
